@@ -1,0 +1,53 @@
+.container {
+  width: 360px;
+  background-color: #fafaf9;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5%;
+  margin-top: 20px;
+}
+.cacti {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  border-radius: 20px;
+}
+button {
+  background-color: #cfb0f3;
+  border: none;
+  color: #441d70;
+  border-radius: 12px;
+  padding: 4px 10px;
+  margin-left: 15px;
+  font-family: "Sora", sans-serif;
+  font-size: 0.625rem;
+}
+.title {
+  margin-left: 15px;
+  font-family: "sora", sans-serif;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+.body {
+  margin-left: 15px;
+  margin-top: 6px;
+  font-family: "Sora", sans-serif;
+  font-size: 0.875rem;
+  font-weight: lighter;
+  margin-bottom: 20px;
+  color: #363e4d;
+  letter-spacing: 0.5px;
+}
+hr {
+  border-bottom: 1px solid #6c727f;
+  margin-bottom: 20px;
+}
+.name {
+  margin-left: 15px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  font-family: "Sora", sans-serif;
+  font-size: 0.75rem;
+  font-weight: lighter;
+}
